@@ -12,8 +12,7 @@ get_header(); ?>
         <div class="col-sm-6">
             <h2 class="titulo"><a href="#"><?php the_field('titulo_principal'); ?></a></h2>
             <p><?php the_field('contenido'); ?></p>
-            <button>VER OTRO</button>
-            <a href="<?php the_field('boton'); ?>">VER OTRO</a>
+            <a href="<?php the_field('boton'); ?>" class="leyendonoti">SEGUIR LEYENDO</a>
         </div>
         </div>
     </section>
@@ -24,7 +23,7 @@ get_header(); ?>
             <div class="col-sm-4 text-center"><?php the_field('video_3'); ?></div> 
         </div>
         <br>
-        <button>VER MÁS</button>
+        <a href="<?php the_field('boton'); ?>" class="videomas">VER MÁS</a>
     </section>
     <section class="container">
         <div class="row">
