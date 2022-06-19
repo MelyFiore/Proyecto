@@ -22,8 +22,8 @@ header a {
     color: white;
 }
 section {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 .portada {
     padding-top: 40px;
@@ -40,12 +40,14 @@ section {
     text-decoration: none;
     color: rgb(0, 185, 31);
 }
-button {
+button,
+.submit {
     border-radius: 8px;
-    padding: 10px 50px;
-    font-size: 30px;
+    padding: 0px 20px;
+    font-size: 20px;
     font-family: 'bebas neue';
     background-color:rgb(0, 185, 31); 
+    border: 1px solid black;
 }
 .videos {
     padding-top: 40px;
@@ -55,9 +57,14 @@ button {
 }
 .redes {
     padding-top: 40px;
+    
 }
 footer {
     background-color: rgb(51, 51, 51);
+    color: white;
+}
+i {
+    text-decoration: none;
     color: white;
 }
 .menufinal { 
@@ -75,6 +82,43 @@ footer {
 .idioma {
     background-color: white;
     font-size: 20px;
-    padding: 1px 30px;
+    padding: 1px 20px;
     font-family: 'Raleway', sans-serif;
+
+}
+.noti1 {
+    font-family: 'Bebas Neue';
+    font-size: 80px;
+    text-align: center;
+}
+.come1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin: 20px 200px;
+}
+.leyendonoti , .videomas {
+    text-decoration: none;
+    color:rgb(0, 185, 31); 
+    background-color: rgb(51, 51, 51);
+    padding: 10px 10px;
+    border-radius: 15px;
+    border: 5px;
+}
+a h3 {
+    text-decoration: none;
+    color: black;
+}
+h3 {
+    font-family: 'bebas neue';
+    font-size: 30px;
+}
+.fondo {
+    background: linear-gradient(rgb(209 209 209 / 30%), rgb(211 255 229 / 30%));
+    border-radius: 20px;
+
+}
+.espacio {
+    padding: 30px 30px;
 }
