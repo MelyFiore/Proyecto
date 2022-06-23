@@ -125,3 +125,7 @@ h3 {
 iframe {
     width: 100%;
 }
+.centro-nav {
+    max-width: 600px;
+    margin: 0 auto;
+}
