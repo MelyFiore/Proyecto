@@ -6,7 +6,7 @@ get_header(); ?>
         <div class="row">
         <div class="col-sm-6">
             <div class="img1">
-                <img src="<?php the_field('imagen_principal'); ?>" alt="" width="570px">
+                <img src="<?php the_field('imagen_principal'); ?>" class="img-fluid">
             </div>
         </div>
         <div class="col-sm-6">

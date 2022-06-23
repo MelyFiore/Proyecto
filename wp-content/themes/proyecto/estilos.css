@@ -122,3 +122,6 @@ h3 {
 .espacio {
     padding: 30px 30px;
 }
+iframe {
+    width: 100%;
+}
