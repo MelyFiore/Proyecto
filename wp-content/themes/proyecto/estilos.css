@@ -138,3 +138,6 @@ iframe {
     width: 49%;
     display: inline-block;
 } 
+.navigation {
+    display: none;
+}
