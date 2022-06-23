@@ -122,6 +122,9 @@ h3 {
 .espacio {
     padding: 30px 30px;
 }
+iframe {
+    width: 100%;
+}
 .centro-nav {
     max-width: 600px;
     margin: 0 auto;
