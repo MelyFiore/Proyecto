@@ -134,3 +134,7 @@ iframe {
     display: inline-block;
     vertical-align: top;
 }
+.comment-respond {
+    width: 49%;
+    display: inline-block;
+}
