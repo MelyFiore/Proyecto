@@ -31,7 +31,7 @@
                         <a class="nav-link" href="#">Equipos</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="<?php the_field('boton'); ?>">Noticias</a>
+                        <a class="nav-link" href="https://ismem5.desarrollando.tech/noticias/">Noticias</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="#">Fútbol Femenino</a>
