@@ -9,7 +9,7 @@ get_header(); ?>
                     <p class="come1"><?php the_content(); ?></p>
             </div>         
                 <div class="col text-center video">
-                    <img src="<?php the_post_thumbnail("large"); ?>">
+                    <img src="<?php the_post_thumbnail_url("large"); ?>">
                 </div>
             <div class="col-sm-12">    
                     <p class="come1"><?php the_field('contenido_a'); ?></p>
