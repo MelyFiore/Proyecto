@@ -141,4 +141,11 @@ iframe {
 .navigation {
     display: none;
 }
+textarea {
+	width: 100%;
+}
 
+.wp-pagenavi {
+    display: flex;
+    justify-content: center;
+}

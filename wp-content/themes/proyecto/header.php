@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <title><?php bloginfo('name'); ?></title>
     <?php wp_head(); ?>
-    <  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 <link rel="stylesheet" href="<?php bloginfo("template_url"); ?>/estilos.css">
 </head>
@@ -31,7 +31,7 @@
                         <a class="nav-link" href="#">Equipos</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="https://ismem5.desarrollando.tech/noticias/">Noticias</a>
+                        <a class="nav-link" href="https://ismem5.desarrollando.tech/listado/">Noticias</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="#">Fútbol Femenino</a>
@@ -43,8 +43,3 @@
             </div>
         </div>
     </header>
-
-  
- 
-
-        

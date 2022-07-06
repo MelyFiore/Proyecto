@@ -12,7 +12,7 @@ get_header(); ?>
         <div class="col-sm-6">
             <h2 class="titulo"><a href="#"><?php the_field('titulo_principal'); ?></a></h2>
             <p><?php the_field('contenido'); ?></p>
-            <a href="<?php the_field('boton'); ?>" class="leyendonoti">SEGUIR LEYENDO</a>
+            <a href="https://ismem5.desarrollando.tech/listado/" class="leyendonoti">SEGUIR LEYENDO</a>
         </div>
         </div>
     </section>
